@@ -1,0 +1,26 @@
+.butonat{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
+
+#output{
+    margin-left: 42%;
+}
+
+.one{
+    background-color: lightgreen;
+    width: 100px;
+    height: 50px;
+    border-radius: 5%;
+}
+
+.two{
+    background-color: lightcoral;
+    width: 100px;
+    height: 50px;
+    border-radius: 5%;
+
+}
